@@ -97,9 +97,9 @@ This the of the used technology depend of the platform. There are some library t
 
 ## Demo
 
-Quick demo of the iOS application and the functionality in [YouTube](https://youtu.be/0PZZ-AEs1hQ).
+Quick demo of the iOS application and the functionality in [YouTube](https://youtu.be/RXcPJFzvpfs).
 
-[![Demo app](readme-resources/cover.png)](https://youtu.be/0PZZ-AEs1hQ)
+[![Demo app](readme-resources/cover.png)](https://youtu.be/RXcPJFzvpfs)
 
 Quick demo of Web Application and iOS and the functionality in [YouTube](https://youtu.be/oJqA9zT5YSA).
 
